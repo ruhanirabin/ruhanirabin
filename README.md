@@ -3,6 +3,7 @@
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&layout=compact&show_icons=true&theme=transparent)
+![Ruhani Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhanirabin&show_icons=true&theme=transparent)
 
 
 ## Latest Blog Posts
