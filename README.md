@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 6 Digital Solutions for Calendar and Scheduling Management](https://www.ruhanirabin.com/top-solutions-calendar-scheduling-management/)
