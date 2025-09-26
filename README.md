@@ -1,6 +1,11 @@
-## Hi there 👋
-![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
+## Hi I'm Ruhani Rabin
 
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&layout=compact&show_icons=true&theme=transparent)
+
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Top 6 Digital Solutions for Calendar and Scheduling Management](https://www.ruhanirabin.com/top-solutions-calendar-scheduling-management/)
 - [EasySite](https://www.ruhanirabin.com/toolkit/easysite/)
