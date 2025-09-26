@@ -1,7 +1,3 @@
-## Hi I'm Ruhani Rabin
-<img src="https://img.shields.io/twitter/follow/ruhanirabin?logo=twitter&style=for-the-badge" alt="ruhanirabin" />
-<img src="https://img.shields.io/twitter/follow/ruhanirabin?logo=twitter&style=for-the-badge" alt="ruhanirabin" />
-
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
 
@@ -15,6 +11,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&show_icons=true&theme=transparent)
+
+
+
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ruhanirabin&repo=ruhanirabin&countColorcountColor&countColor=%237B1E7B"/>
 <!--
 **ruhanirabin/ruhanirabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
