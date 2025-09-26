@@ -2,9 +2,6 @@
 
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&layout=compact&show_icons=true&theme=transparent)
-![Ruhani Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhanirabin&show_icons=true&theme=transparent)
-
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,6 +12,8 @@
 - [AltText.ai](https://www.ruhanirabin.com/toolkit/alttext-ai/)
 <!-- BLOG-POST-LIST:END -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&show_icons=true&theme=transparent)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ruhanirabin&repo=ruhanirabin&countColorcountColor&countColor=%237B1E7B"/>
 <!--
 **ruhanirabin/ruhanirabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
