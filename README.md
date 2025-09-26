@@ -1,4 +1,6 @@
 ## Hi I'm Ruhani Rabin
+<img src="https://img.shields.io/twitter/follow/ruhanirabin?logo=twitter&style=for-the-badge" alt="ruhanirabin" />
+<img src="https://img.shields.io/twitter/follow/ruhanirabin?logo=twitter&style=for-the-badge" alt="ruhanirabin" />
 
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
