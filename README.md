@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix: How to Prevent Browser from Automatically Adjusting Microphone Volume](https://www.ruhanirabin.com/fix-browser-mic-volume-disable-webrtc-agc/)
 - [Top 6 Digital Solutions for Calendar and Scheduling Management](https://www.ruhanirabin.com/top-solutions-calendar-scheduling-management/)
 - [EasySite](https://www.ruhanirabin.com/toolkit/easysite/)
 - [AdGuard](https://www.ruhanirabin.com/toolkit/adguard/)
 - [LinkBoss Internal Linking Tool](https://www.ruhanirabin.com/toolkit/linkboss-internal-linking-tool/)
-- [AltText.ai](https://www.ruhanirabin.com/toolkit/alttext-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&show_icons=true&theme=transparent)
