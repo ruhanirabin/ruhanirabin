@@ -1,19 +1,42 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      - name: Check RSS feed health
+        id: check_rss
+        run: |
+          FEED_URL="https://www.ruhanirabin.com/feed/"
+          STATUS=$(curl -sS -o /tmp/feed.xml -w "%{http_code}" "$FEED_URL" || echo "000")
+
+          echo "HTTP status: $STATUS"
+
+          # If not 200 or file is empty, mark as bad
+          if [ "$STATUS" -ne 200 ] || [ ! -s /tmp/feed.xml ]; then
+            echo "Feed is not readable or empty"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "Feed looks OK"
+          echo "ok=true" >> "$GITHUB_OUTPUT"
+
+      - name: Pull in ruhanirabin.com posts
+        if: steps.check_rss.outputs.ok == 'true'
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.ruhanirabin.com/feed/"
