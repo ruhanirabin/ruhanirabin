@@ -1,5 +1,5 @@
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/ruhanirabin/archtype)
-![Github Stats](https://greptile-stats.vercel.app/api/widget/ruhanirabin/stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruhanirabin&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhanirabin&theme=2077)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
