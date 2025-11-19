@@ -10,7 +10,7 @@
 - [LinkBoss Internal Linking Tool](https://www.ruhanirabin.com/toolkit/linkboss-internal-linking-tool/)
 <!-- BLOG-POST-LIST:END -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanirabin&show_icons=true&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
 
 
 
