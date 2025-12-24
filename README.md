@@ -4,7 +4,7 @@
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [WordPress External Image Import Plugin Snippet](https://www.ruhanirabin.com/code-snippet/wordpress-external-image-import-plugin-snippet/)
-- [How to Build a SaaS Product Quickly &lpar;Step-by-Step&rpar;](https://www.ruhanirabin.com/how-to-develop-a-saas-product/)
+- [How to Build a SaaS Product Quickly &lpar;Step-by-Step&rpar;](https://www.ruhanirabin.com/product-strategy/how-to-develop-a-saas-product/)
 - [EasySite](https://www.ruhanirabin.com/product-review/easysite/)
 - [LinkBoss Internal Linking Tool](https://www.ruhanirabin.com/product-review/linkboss-internal-linking-tool/)
 - [Verpex WordPress Hosting](https://www.ruhanirabin.com/product-review/verpex-wordpress-hosting/)
