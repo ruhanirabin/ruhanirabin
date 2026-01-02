@@ -3,7 +3,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own Chatbot from Scratch](https://www.ruhanirabin.com/build-chatbot-scratch/)
+- [How to Build an AI Chatbot From Scratch &lpar;Step‑by‑Step Guide for 2026&rpar;](https://www.ruhanirabin.com/build-ai-chatbot-from-scratch/)
 - [WordPress External Image Import Plugin Snippet](https://www.ruhanirabin.com/code-snippet/wordpress-external-image-import-plugin-snippet/)
 - [How to Build a SaaS Product Quickly &lpar;Step-by-Step&rpar;](https://www.ruhanirabin.com/product-strategy/how-to-develop-a-saas-product/)
 - [EasySite](https://www.ruhanirabin.com/product-review/easysite/)
