@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Product Strategy vs. Product Management for Revenue](https://www.ruhanirabin.com/product-strategy/product-strategy-vs-product-management/)
 - [How to Build an AI Chatbot From Scratch &lpar;Step‑by‑Step Guide for 2026&rpar;](https://www.ruhanirabin.com/build-ai-chatbot-from-scratch/)
 - [WordPress External Image Import Plugin Snippet](https://www.ruhanirabin.com/code-snippet/wordpress-external-image-import-plugin-snippet/)
 - [How to Build a SaaS Product Quickly &lpar;Step-by-Step&rpar;](https://www.ruhanirabin.com/product-strategy/how-to-develop-a-saas-product/)
 - [EasySite](https://www.ruhanirabin.com/product-review/easysite/)
-- [LinkBoss Internal Linking Tool](https://www.ruhanirabin.com/product-review/linkboss-internal-linking-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
