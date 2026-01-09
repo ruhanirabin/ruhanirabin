@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secrets of Keyword Density: Modern SEO Guide](https://www.ruhanirabin.com/secrets-of-keyword-density-to-boost-your-site-traffic-seo/)
 - [How to Backup WordPress Site: 5 Reliable Methods](https://www.ruhanirabin.com/wordpress/how-to-backup-wordpress-site/)
 - [What Is Intelligent Automation &amp; Why 73% Get It Wrong](https://www.ruhanirabin.com/ai-automation/what-is-intelligent-automation/)
 - [Product Strategy vs. Product Management for Revenue](https://www.ruhanirabin.com/product-strategy/product-strategy-vs-product-management/)
 - [How to Build an AI Chatbot From Scratch &lpar;Step‑by‑Step Guide for 2026&rpar;](https://www.ruhanirabin.com/build-ai-chatbot-from-scratch/)
-- [WordPress External Image Import Plugin Snippet](https://www.ruhanirabin.com/code-snippet/wordpress-external-image-import-plugin-snippet/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
