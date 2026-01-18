@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 UX Friction Points in SaaS Products that Signal Untapped Value](https://www.ruhanirabin.com/product-ux-retention/ux-friction-points-saas-products-untapped-value/)
 - [12 Best Product Marketing Tools that Drive Retention](https://www.ruhanirabin.com/resources/best-product-marketing-tools-saas-retention/)
 - [10 Real AI Opportunities &lpar;vs. The Ones You’re Building Because of Trend Chasing&rpar;](https://www.ruhanirabin.com/ai-automation/real-ai-opportunities-vs-hype-saas/)
 - [Benefits of Automation in Business: 12 Proven ROI Metrics](https://www.ruhanirabin.com/ai-automation/benefits-of-automation-in-business-12-proven-roi-metrics/)
 - [Automatically Make WordPress Tables Blocks Responsive for Mobile](https://www.ruhanirabin.com/code-snippet/automatically-make-wordpress-tables-blocks-responsive-for-mobile/)
-- [Secrets of Keyword Density: Modern SEO Guide](https://www.ruhanirabin.com/secrets-of-keyword-density-to-boost-your-site-traffic-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
