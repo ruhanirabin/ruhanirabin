@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real Reasons Why Customers Churn &lpar;And What Actually Works&rpar;](https://www.ruhanirabin.com/reasons-why-customers-churn/)
 - [ChatGPT vs. Claude vs. Gemini for Product Strategy: Which AI Actually Helps?](https://www.ruhanirabin.com/product-strategy/ai-for-product-strategy-chatgpt-claude-gemini/)
 - [App Store Optimization: A Complete ASO Playbook](https://www.ruhanirabin.com/app-store-optimization-aso-checklist-to-boost-app-downloads/)
 - [How to Choose an IoT Platform for SaaS Products](https://www.ruhanirabin.com/best-iot-platforms-to-watch-out/)
 - [SaaS UI Performance: Why Slow Interfaces Kill 23% of Trial Conversions](https://www.ruhanirabin.com/product-ux-retention/saas-ui-performance-trial-conversions/)
-- [8 UX Friction Points in SaaS Products that Signal Untapped Value](https://www.ruhanirabin.com/product-ux-retention/ux-friction-points-saas-products-untapped-value/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
