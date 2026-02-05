@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Source Code Highlights in Bricks Builder + Core Framework](https://www.ruhanirabin.com/code-snippet/how-to-add-source-code-highlights-bricksbuilder-core-framework/)
 - [Best SEO Audit Tools: 12 Tested &amp; Ranked By ROI](https://www.ruhanirabin.com/resources/best-seo-audit-tools/)
 - [Write AI Citation Optimized Web Content: Tool Guide](https://www.ruhanirabin.com/resources/write-ai-citation-optimized-web-content/)
 - [17 Best Tools for CSS Development &lpar;500+ Developers Use These&rpar;](https://www.ruhanirabin.com/best-tools-for-css-development/)
 - [The Real Reasons Why Customers Churn &lpar;And What Actually Works&rpar;](https://www.ruhanirabin.com/reasons-why-customers-churn/)
-- [ChatGPT vs. Claude vs. Gemini for Product Strategy: Which AI Actually Helps?](https://www.ruhanirabin.com/product-strategy/ai-for-product-strategy-chatgpt-claude-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
