@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best UX/UI Practices for Product Development Teams](https://www.ruhanirabin.com/product-ux-retention/best-ux-ui-practices-product-development-teams/)
 - [How Strong Systems Enable Cross-Functional Teams: 7 Proven Mechanisms](https://www.ruhanirabin.com/product-advisory/how-strong-systems-enable-cross-functional-teams/)
 - [How to Add Source Code Highlights in Bricks Builder + Core Framework](https://www.ruhanirabin.com/code-snippet/how-to-add-source-code-highlights-bricksbuilder-core-framework/)
 - [Best SEO Audit Tools: 12 Tested &amp; Ranked By ROI](https://www.ruhanirabin.com/resources/best-seo-audit-tools/)
 - [Write AI Citation Optimized Web Content: Tool Guide](https://www.ruhanirabin.com/resources/write-ai-citation-optimized-web-content/)
-- [17 Best Tools for CSS Development &lpar;500+ Developers Use These&rpar;](https://www.ruhanirabin.com/best-tools-for-css-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
