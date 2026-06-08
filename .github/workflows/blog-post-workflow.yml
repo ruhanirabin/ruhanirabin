@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '0 0 * * *' # every day
   workflow_dispatch:
 
 permissions:
@@ -39,4 +39,4 @@ jobs:
         if: steps.check_rss.outputs.ok == 'true'
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.ruhanirabin.com/feed/"
+          feed_list: "https://www.ruhanirabin.com/feed/,https://rabin.blog/rss.xml"
