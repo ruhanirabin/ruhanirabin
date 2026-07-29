@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix Proxmox High CPU Temperature on Dell OptiPlex Micro: The CPU Governor Trick](https://rabin.blog/fix-proxmox-high-cpu-temperature-using-cpu-governor-trick)
 - [Fix Intel e1000e “Detected Hardware Unit Hang” on Proxmox](https://rabin.blog/fix-intel-e1000e-detected-hardware-unit-hang-on-proxmox)
 - [How to Properly Backup, Move, and Migrate Uptime Kuma &lpar;Docker + Direct Install&rpar;](https://rabin.blog/how-to-properly-backup-move-uptime-kuma-docker-or-direct)
 - [Proxmox Config Backup to Git &amp;#8211; Version Control for Your PVE Nodes](https://rabin.blog/proxmox-config-backup-git-version-control-pve-nodes)
 - [Upgrade Proxmox 8 to 9 Without Breaking Your Homelab](https://rabin.blog/upgrade-proxmox-8-to-9-without-breaking-your-homelab)
-- [Auto-Organize Downloads Folder Powershell Script | Windows/macOS/Linux](https://rabin.blog/auto-organize-downloads-folder-powershell-script-windows-mac-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
