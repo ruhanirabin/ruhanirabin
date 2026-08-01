@@ -39,4 +39,4 @@ jobs:
         if: steps.check_rss.outputs.ok == 'true'
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.ruhanirabin.com/feed/,https://rabin.blog/rss.xml"
+          feed_list: "https://www.ruhanirabin.com/feed/,https://rabin.blog/feed.xml"
