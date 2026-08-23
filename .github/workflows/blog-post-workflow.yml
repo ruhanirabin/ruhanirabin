@@ -20,7 +20,7 @@ jobs:
       - name: Check RSS feed health
         id: check_rss
         run: |
-          FEED_URL="https://www.ruhanirabin.com/feed/"
+          FEED_URL="https://www.ruhanirabin.com/rss.xml"
           STATUS=$(curl -sS -o /tmp/feed.xml -w "%{http_code}" "$FEED_URL" || echo "000")
 
           echo "HTTP status: $STATUS"
