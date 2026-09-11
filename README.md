@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When Astro is a better choice than a traditional WordPress frontend](https://www.ruhanirabin.com/wordpress/astro-vs-wordpress-how-to-choose/)
 - [Use Elgato Wave:3 on Linux with Noise Reduction, EQ, Compression and a Virtual Microphone](https://rabin.blog/use-elgato-wave-3-on-linux-with-noise-reduction-eq-compression-and-a-virtual-microphone/)
 - [Privacy Policy of Rabin.blog](https://rabin.blog/privacy-policy/)
 - [Obsidian Web on Proxmox with Ignis and Tailscale: Private Access, Phone Access, and No Browser Warnings](https://rabin.blog/obsidian-web-on-proxmox-with-ignis-and-tailscale/)
 - [Build a Quartz 5 Digital Garden with Comments, Analytics, and Safe Upgrade Boundaries](https://rabin.blog/build-quartz-5-digital-garden-with-comments-analytics-and-upgrade-boundaries/)
-- [Auto-Organize Downloads Folder Powershell Script | Windows/macOS/Linux](https://rabin.blog/auto-organize-downloads-folder-powershell-script-windows-mac-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
