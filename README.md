@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Run Affinity V2 on NixOS with affinity-nix](https://rabin.blog/run-affinity-v2-on-nixos/)
 - [Install the ChatGPT and Codex Desktop App Declaratively on NixOS](https://rabin.blog/install-chatgpt-codex-desktop-app-declaratively-nixos/)
 - [When Astro is a better choice than a traditional WordPress frontend](https://www.ruhanirabin.com/wordpress/astro-vs-wordpress-how-to-choose/)
 - [Use Elgato Wave:3 on Linux with Noise Reduction, EQ, Compression and a Virtual Microphone](https://rabin.blog/use-elgato-wave-3-on-linux-with-noise-reduction-eq-compression-and-a-virtual-microphone/)
 - [Privacy Policy of Rabin.blog](https://rabin.blog/privacy-policy/)
-- [Obsidian Web on Proxmox with Ignis and Tailscale: Private Access, Phone Access, and No Browser Warnings](https://rabin.blog/obsidian-web-on-proxmox-with-ignis-and-tailscale/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
