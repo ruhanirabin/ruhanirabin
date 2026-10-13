@@ -3,7 +3,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Convert H.264 Movies/TV to H.265 with Tdarr and NVIDIA GPU on Linux](https://rabin.blog/posts/tdarr-convert-h264-to-h265-nvidia-gpu-linux-how-to/)
+- [Convert H.264 Movies/TV to H.265 with Tdarr and NVIDIA GPU on Linux](https://rabin.blog/tdarr-convert-h264-to-h265-nvidia-gpu-linux-how-to/)
 - [Moving into Niri &amp; DankMaterialShell in NixOS](https://rabin.blog/nixos-niri-dank-how-to/)
 - [How I Manage Multiple Docker Hosts with Komodo, GitHub in a Single Dashboard](https://rabin.blog/manage-multiple-docker-hosts-with-komodo/)
 - [How I Run Affinity V2 on NixOS with affinity-nix](https://rabin.blog/run-affinity-v2-on-nixos/)
