@@ -3,11 +3,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Add Pocket ID Login to Homelab Apps with Tinyauth and Nginx Proxy Manager](https://rabin.blog/pocket-id-login-homelab-apps-tinyauth-npm/)
+- [Wastebin with Pocket ID: Login to Create, Public Links to Read](https://rabin.blog/wastebin-pocket-id-login-public-pastes/)
 - [Neovim on NixOS: Keep Your Config in Git and Let LazyVim Save Settings](https://rabin.blog/declarative-neovim-lazyvim-nixos/)
 - [Keep NixOS Secrets in Git with agenix: A Step-by-Step Guide](https://rabin.blog/encrypt-nixos-secrets-in-git-with-agenix/)
 - [Distrobox on NixOS: Declare an Ubuntu Toolbox and Its Zsh Setup](https://rabin.blog/declarative-distrobox-ubuntu-zsh-nixos/)
-- [Moving from Niri and DMS to Noctalia v5 on NixOS](https://rabin.blog/move-niri-dms-to-noctalia-v5-nixos/)
-- [5 Best Terminal Tools for NixOS: My Zsh Setup and Wrappers](https://rabin.blog/best-terminal-tools-nixos-zsh/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhanirabin&theme=2077)
